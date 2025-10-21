@@ -25,6 +25,7 @@ The paper in question is this one:
     publisher={Springer Nature Switzerland},
     address={Cham},
     pages={283--301},
-    isbn={978-3-032-08623-5}
+    isbn={978-3-032-08623-5},
+    doi={10.1007/978-3-032-08623-5_15}
 }
 ```
